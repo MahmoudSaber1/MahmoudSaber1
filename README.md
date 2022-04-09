@@ -16,12 +16,10 @@
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 My Skills</h3>
 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery | Ajax | JSON | ReactJS | Next.js
-
-- 🛢 &nbsp; MySQL | MongoDB 
 
 - 🔧 &nbsp; Git | Github | VS Code | Sanity
 
@@ -34,9 +32,10 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Node.js
+- 🔧 &nbsp; Docker🐳 | Firebase | Node.js
+- 🛢 &nbsp; MySQL | MongoDB
 
 <hr>
 
