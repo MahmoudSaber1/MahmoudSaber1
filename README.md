@@ -2,7 +2,7 @@
 Hi, I'm Mahmoud Saber!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?width=550&lines=Junior+Frontend+Developer+%7C+React+%26+Redux+%F0%9F%98%8A"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?width=550&lines=Mid+Frontend+Developer+%7C+React+%26+Redux+%F0%9F%98%8A"></a>
 </p>
 <p align="center">
 <a href="https://app.daily.dev/mahmoud_saber"><img src="https://api.daily.dev/devcards/62d6a1f41ab741349c26bb1aa1ade37e.png?r=6zs" width="400" alt="Mahmoud Saber's Dev Card"/></a>
