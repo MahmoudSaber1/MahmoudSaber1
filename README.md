@@ -5,7 +5,7 @@ Hi, I'm Mahmoud Saber!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?width=550&lines=Mid+Frontend+Developer+%7C+React+%26+Redux+%F0%9F%98%8A"></a>
 </p>
 <p align="center">
-<a href="https://app.daily.dev/mahmoud_saber"><img src="https://api.daily.dev/devcards/62d6a1f41ab741349c26bb1aa1ade37e.png?r=6zs" width="400" alt="Mahmoud Saber's Dev Card"/></a>
+<a href="https://app.daily.dev/zone0x1"><img src="https://api.daily.dev/devcards/e41a1b96636a488d8e989c31f8686e54.png?r=aqg" width="400" alt="Mahmoud Saber's Dev Card"/></a>
   </p>
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Skills</f2>
