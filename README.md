@@ -17,7 +17,7 @@ Hi, I'm Mahmoud Saber!
 ```
 MahmoudSaber1@github
 -------------------------
-🌱 I’m currently learning Node.js, Next.js
+🌱 I’m currently learning Node.js
 💬 Ask me about React
 👨‍💻 All of my projects are available at https://mahmoudsaber-portfolio.vercel.app/
 📫 How to reach me ms5325749@gmail.com
