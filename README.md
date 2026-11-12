@@ -1,3 +1,5 @@
+![Mahmoud Saber — THE BUILDER](github-header.png)
+
 # Mahmoud Saber
 
 Senior Software Engineer | React, Next.js, TypeScript | SaaS & frontend architecture
