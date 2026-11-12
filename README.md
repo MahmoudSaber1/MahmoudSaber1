@@ -20,7 +20,7 @@ I build production SaaS products, internal operating systems, and practical AI i
 ## Links
 
 - [Portfolio](https://mahmoud-saber.site/)
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-saber-49a483214/)
+- [LinkedIn](https://www.linkedin.com/in/MahmoudSaber1/)
 - [GitLab](https://gitlab.com/MahmoudSaber1)
 - [YouTube — engineering videos](https://www.youtube.com/@MahmoudSaberTech)
 - [Mujtahid Tech](https://mujtahid.tech/)
