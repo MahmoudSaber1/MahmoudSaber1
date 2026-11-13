@@ -15,6 +15,7 @@ I build production SaaS products, internal operating systems, and practical AI i
 - **FSD CLI** — feature-sliced design tooling (maintenance owner)
 - **Mujtahid OS** — internal operating system for Mujtahid Tech
 - **Smart Profile** — done-for-you digital profiles with permanent QR
+- **Open source** — contributor to [remote.futrx](https://github.com/futrx-com/remote.futrx) (744 stars): [PR #376 merged](https://github.com/futrx-com/remote.futrx/pull/376) — styled rewind-feedback dialogs, fixes issue #344
 - Portfolio & case studies: [mahmoud-saber.site](https://mahmoud-saber.site/)
 
 ## Links
